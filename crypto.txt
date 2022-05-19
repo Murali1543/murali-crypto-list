@@ -1,0 +1,11 @@
+Bitcoin
+Tether
+Avalanche
+Polygon
+Litecoin
+Cronos
+Dai
+Uniswap
+Stellar
+Cosmos
+
