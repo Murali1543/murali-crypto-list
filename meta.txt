@@ -1,0 +1,5 @@
+Wrapped Bitcoin
+Avalanche
+Dai
+Uniswap
+Chainlink
