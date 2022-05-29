@@ -1,8 +1,7 @@
+Bitcoin
+Ethereum
 Tether
-Avalanche
-Polygon
-Uniswap
-Stellar
-Cosmos
+USD Coin
+BNB
 
 
