@@ -1,10 +1,5 @@
 Bitcoin
 Ethereum
 Tether
-<<<<<<< HEAD
-=======
 USD Coin
 BNB
->>>>>>> clean-crypto
-
-
